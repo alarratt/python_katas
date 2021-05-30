@@ -8,4 +8,4 @@ song = song.replace('WUB', ' ')
 #Remove any spaces from the beginning and end of the string. 
 song = song.strip()
 print(song)
- dsfghsdg
+ print('sfghsdg')
