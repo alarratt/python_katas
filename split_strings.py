@@ -13,3 +13,12 @@ def solution(s):
 
 solution(x)
 solution(y)       
+
+#Another solution
+import re
+
+def solution_re(s):
+    return (re.findall(".{2}", s + "_"))
+
+solution_re(x)
+solution_re(y)
